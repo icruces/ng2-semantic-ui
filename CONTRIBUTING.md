@@ -1,4 +1,4 @@
-# Contributing to ng2-semantic-ui
+# Contributing to ng2-semantic-ui fork
 
 Your contribution will be greatly appreciated, and will help ng2-semantic-ui get even better! As a contributor, here are the guidelines to follow:
 
